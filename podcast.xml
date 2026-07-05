@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     version="2.0">
+  <channel>
+    <title>Horizon 美股早报</title>
+    <link>https://junzhuoli.github.io/morning-us-news</link>
+    <description>AI 驱动的每日美股早报语音播报。精选华尔街重要新闻，AI 分析后生成中文语音简报。</description>
+    <language>zh-cn</language>
+    <itunes:author>Horizon AI</itunes:author>
+    <itunes:summary>AI 驱动的每日美股早报语音播报。精选华尔街重要新闻，AI 分析后生成中文语音简报。</itunes:summary>
+    <itunes:category text="Business"/>
+    <itunes:explicit>no</itunes:explicit>
+
+    <item>
+      <title>2026-07-05 美股早报</title>
+      <enclosure url="https://junzhuoli.github.io/morning-us-news/audio/horizon-2026-07-05-zh.mp3" length="12230772" type="audio/mpeg"/>
+      <guid isPermaLink="false">horizon-2026-07-05</guid>
+      <pubDate>Sun, 05 Jul 2026 08:11:32 +0000</pubDate>
+      <description><![CDATA[Horizon 美股早报，2026年07月05日。 今日精选 10 条重要新闻，下面逐条播报。  第1条。SpaceX（SPCX）IPO后巨震，即将面临解禁与纳指100纳入双重挑战。SpaceX完成IPO后股价经历了剧烈波动。即将到来的内部股东锁定期解禁将释放大量股份，可能引发抛售压力；同时，该公司有望被纳入纳斯达克100指数及相关ETF，触发被动基金的强制买盘。 这两股相反的力量——解禁带来的内部人抛售压力与指数基金自动买入——可能造成显著的短期波动，为主动交易者和投资组合经理带来交易机会。 锁定期通常为90至180天，到期时常会导致股价下跌。另外，市场担忧包括SpaceX的高市销率、巨额资本支出、近期发行的债务以及对星链盈利的高度依赖。IPO锁定期是指公司内部股东在上市后一段时间内不得出售股票的约定，旨在稳定股价。锁定期解禁时，大量解禁股抛售可能压低股价。另一方面，当一只股票被纳入纳斯]]></description>
+      <itunes:duration>05:00</itunes:duration>
+    </item>
+  </channel>
+</rss>
